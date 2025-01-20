@@ -10,6 +10,6 @@ class main {
         main s1 = new main();
         System.out.println(s1.id);
         System.out.println(s1.n);
-        System.out.println("hannnnnnna pateriya made the changes");
+        System.out.println("hannnnnnna pateriya made the changes ayush soni");
     }
 }
